@@ -1,0 +1,1 @@
+Hello, I'm Bestami. I am a final year computer science student. My interests are artificial intelligence, artificial neural networks and deep learning. I am trying to improve myself through python as a software language.
